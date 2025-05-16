@@ -1,9 +1,9 @@
-import {useParams, useLoaderData} from "react-router-dom";
+// import {useParams, useLoaderData} from "react-router-dom";
 export default function EventPage() {
 
-    const {name} = useParams();
+    // const {name} = useParams();
 
-    const {upvotes, comments} = useLoaderData();
+    // const {upvotes, comments} = useLoaderData();
   
   return (
     <>
